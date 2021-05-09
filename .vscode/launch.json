@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hashcodeTest",
+            "request": "launch",
+            "mainClass": "hashcodeTest",
+            "projectName": "Project_1ef5283c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Project_1ef5283c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Project_1ef5283c>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Project_1ef5283c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<Project_1ef5283c>",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Project_1ef5283c"
+        }
+    ]
+}
